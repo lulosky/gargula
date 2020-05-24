@@ -25,7 +25,7 @@ Clone this repo
 
 Open the ps1 file with your text editor, copy the code(read commentaries to add what you need)
 
-From the terminal open your .bash_profile, example atom ~/.bash_profile and paste the code 
+From the terminal open your .bash_profile, example for Mac with VisualStudio Code; code ~/.bash_profile and paste the code 
 
 The code includes: 
 
